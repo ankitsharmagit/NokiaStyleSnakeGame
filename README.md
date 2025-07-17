@@ -2,7 +2,8 @@
 
 A modern tribute to the classic Nokia snake game, rebuilt from the ground up in Python using the `pygame` library. This project replicates the nostalgic feel of the original while introducing a polished, enhanced user interface and a more engaging gameplay experience.
 
-![Game Screenshot](https://placehold.co/600x400/c7f0d8/43523d?text=Add+Game+Screenshot+Here)
+![Game Screenshot](<img width="359" height="473" alt="image" src="https://github.com/user-attachments/assets/59334380-887c-4812-80b2-388f6d948fb2" />
+)
 *Inspired by the classic Snake II title screen.*
 
 ---
